@@ -15,6 +15,8 @@ Right after executing the script you'll get prompted to enter the following info
 - Toggl Workspace ID
 - Toggl Project ID
 
+TODO Formulate a use case
+
 
 ### Python 3
 
